@@ -1,19 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="fe19ae07-cf44-47ad-9143-e512d9bd3f32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn Java - Programmer Zaman Now.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaDasar/BreakContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaDasar/DoWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaDasar/ExpressionStatementBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaDasar/ForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaDasar/ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaDasar/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaDasar/IfStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaDasar/Komentar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaDasar/KonversiNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaDasar/Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaDasar/MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaDasar/MethodParameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaDasar/MethodReturnValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaDasar/MethodVariableArgument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaDasar/OperasiBoolean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaDasar/OperasiMatematika.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaDasar/OperasiPerbandingan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaDasar/RecursiveMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaDasar/Scope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaDasar/SwitchStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaDasar/TernaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaDasar/TipeDataArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaDasar/TipeDataBolean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaDasar/TipeDataBukanPrimitif.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaDasar/TipeDataCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaDasar/TipeDataNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaDasar/TipeDataString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaDasar/Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaDasar/WhileLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <branch-grouping />
@@ -28,13 +62,93 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/PROJECT/Java/Synrgy-Batch5-SpringBoot&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.Scope">
+    <configuration name="MethodOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaDasar.MethodOverloading" />
+      <module name="Learn Java - Programmer Zaman Now" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaDasar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodReturnValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaDasar.MethodReturnValue" />
+      <module name="Learn Java - Programmer Zaman Now" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaDasar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodVariableArgument" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaDasar.MethodVariableArgument" />
+      <module name="Learn Java - Programmer Zaman Now" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaDasar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecursiveMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaDasar.RecursiveMethod" />
+      <module name="Learn Java - Programmer Zaman Now" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaDasar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaDasar.Scope" />
+      <module name="Learn Java - Programmer Zaman Now" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaDasar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Scope" />
+        <item itemvalue="Application.RecursiveMethod" />
+        <item itemvalue="Application.MethodOverloading" />
+        <item itemvalue="Application.MethodVariableArgument" />
+        <item itemvalue="Application.MethodReturnValue" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
