@@ -34,6 +34,7 @@ public class TipeDataArray {
 
         System.out.println(members[0][1]);
         System.out.println(members[1][0]);
+        System.out.println(members[2][0]);
 
     }
 }
