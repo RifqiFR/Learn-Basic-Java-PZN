@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe19ae07-cf44-47ad-9143-e512d9bd3f32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/latihan/BangunRuang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/latihan/PolaSegitiga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/latihan/Compounding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/latihan/FirstLastDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/latihan/MagicPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/latihan/MinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/latihan/NumberRow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Latihan/DevideConquer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/latihan/DevideConquer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Latihan/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/latihan/Palindrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,9 +44,27 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BangunRuang">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="latihan" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.NumberRow">
     <configuration name="BangunRuang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="latihan.BangunRuang" />
+      <module name="Learn Java - Programmer Zaman Now" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="latihan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberRow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="latihan.NumberRow" />
       <module name="Learn Java - Programmer Zaman Now" />
       <extension name="coverage">
         <pattern>
@@ -98,8 +117,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberRow" />
         <item itemvalue="Application.BangunRuang" />
-        <item itemvalue="Application.PolaSegitiga1" />
         <item itemvalue="Application.PolaSegitiga3" />
         <item itemvalue="Application.PolaSegitiga2" />
       </list>
@@ -121,7 +140,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Studi-kasus-1" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
